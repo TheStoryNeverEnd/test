@@ -1,0 +1,19 @@
+{
+  "images": [
+    {
+      "filename": "long-image-1.jpg",
+      "title": "我的第一张长图",
+      "description": "这是存放在仓库images文件夹中的第一张图片"
+    },
+    {
+      "filename": "long-image-2.png",
+      "title": "我的第二张长图",
+      "description": "这是存放在仓库images文件夹中的第二张图片"
+    },
+    {
+      "filename": "example-image.jpg",
+      "title": "示例图片",
+      "description": "更多图片可以按照此格式添加"
+    }
+  ]
+}
